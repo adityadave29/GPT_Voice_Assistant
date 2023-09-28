@@ -1,0 +1,16 @@
+com.example.gpt_voice_assistant.app-jetified-window-1.0.0-beta04-0 /Users/adityadave/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.gpt_voice_assistant.app-core-1.8.0-1 /Users/adityadave/.gradle/caches/transforms-3/2fa18b2f544a798470f6ba6d29f55f60/transformed/core-1.8.0/res
+com.example.gpt_voice_assistant.app-jetified-annotation-experimental-1.1.0-2 /Users/adityadave/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.gpt_voice_assistant.app-jetified-core-ktx-1.8.0-3 /Users/adityadave/.gradle/caches/transforms-3/8ae9843b381467f93b6a13b4c93092af/transformed/jetified-core-ktx-1.8.0/res
+com.example.gpt_voice_assistant.app-lifecycle-runtime-2.3.1-4 /Users/adityadave/.gradle/caches/transforms-3/9a249567dcb8025899915ed9a2426636/transformed/lifecycle-runtime-2.3.1/res
+com.example.gpt_voice_assistant.app-jetified-window-java-1.0.0-beta04-5 /Users/adityadave/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.gpt_voice_assistant.app-debug-6 /Users/adityadave/Documents/gpt_voice_assistant/android/app/src/debug/res
+com.example.gpt_voice_assistant.app-main-7 /Users/adityadave/Documents/gpt_voice_assistant/android/app/src/main/res
+com.example.gpt_voice_assistant.app-pngs-8 /Users/adityadave/Documents/gpt_voice_assistant/build/app/generated/res/pngs/debug
+com.example.gpt_voice_assistant.app-resValues-9 /Users/adityadave/Documents/gpt_voice_assistant/build/app/generated/res/resValues/debug
+com.example.gpt_voice_assistant.app-rs-10 /Users/adityadave/Documents/gpt_voice_assistant/build/app/generated/res/rs/debug
+com.example.gpt_voice_assistant.app-mergeDebugResources-11 /Users/adityadave/Documents/gpt_voice_assistant/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.gpt_voice_assistant.app-mergeDebugResources-12 /Users/adityadave/Documents/gpt_voice_assistant/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.gpt_voice_assistant.app-merged_res-13 /Users/adityadave/Documents/gpt_voice_assistant/build/app/intermediates/merged_res/debug
+com.example.gpt_voice_assistant.app-packaged_res-14 /Users/adityadave/Documents/gpt_voice_assistant/build/flutter_tts/intermediates/packaged_res/debug
+com.example.gpt_voice_assistant.app-packaged_res-15 /Users/adityadave/Documents/gpt_voice_assistant/build/speech_to_text/intermediates/packaged_res/debug
